@@ -13,6 +13,8 @@ After drawing each shape, you program should switch pen colors
 cycling between three colors of your choice.
 So the first shape could be blue, then the second red, then the third green, then the fourth blue, and so on.
 
+Your program also need to keep track of the total permiter of all shapes drawn
+and print that out at the end.
 
 You program should also use TDD. I can't make you do this, but they will on the real exam.
 """
